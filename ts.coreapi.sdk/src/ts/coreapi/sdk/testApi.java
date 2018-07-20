@@ -56,7 +56,7 @@ public class testApi {
 		System.out.println("andriod:"+resultData.getData().getAndriod());*/
 		
 		
-
+//测试用例
 		CoreAPIClient client = new CoreAPIClient("TSTool", "AKID4TtwNUFJg8oU9m4XDiJAaFofQ0KJEpCQ", SiteEnum.TS111,
                 "http://aw.bvf11.com/");//"http://cf.bvf11.com/",
 		
